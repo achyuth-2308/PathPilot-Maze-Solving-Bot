@@ -20,7 +20,7 @@ This project demonstrates a basic but effective autonomous maze solving robot. T
 | Servo Motor (SG90)         | 1        | Rotates ultrasonic sensor for directional scan |
 | DC Motors                  | 2        | Rear wheel drive                             |
 | 3-Wheeled Chassis          | 1        | Base structure with caster support           |
-| Jumper Wires + Breadboard  | —        | For circuit connections                      |
+| Jumper Wires + Breadboard  |As Required| For circuit connections                      |
 | Battery Pack (3.7V Li-ion) | 2        | To power motors and ESP32                    |
 
 ---
